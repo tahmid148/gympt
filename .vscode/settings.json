@@ -3,5 +3,20 @@
     "source.fixAll": "explicit",
     "source.organizeImports": "explicit",
     "source.sortMembers": "explicit"
-  }
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.eol": "\n",
+  "prettier.arrowParens": "avoid",
+  "prettier.bracketSameLine": true,
+  "prettier.bracketSpacing": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "prettier.semi": true,
+  "prettier.printWidth": 100,
+  "prettier.tabWidth": 2
 }
